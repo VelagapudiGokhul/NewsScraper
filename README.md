@@ -1,6 +1,3 @@
-# NewsScraper
-Python script to scrape news headlines from Indian Express.
-
 # NewsScrapper
 
 This project fetches news headlines from various categories and reads them using Python. It utilizes `requests` to fetch the HTML content, `BeautifulSoup` to parse the HTML, and `pyttsx3` for text-to-speech.
